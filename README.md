@@ -8,7 +8,7 @@
 </div>
 
 <h2>Contatos: </h2>
-<div">
+<div>
   <a href="[https://www.linkedin.com/in/SEU_USUARIO](https://www.linkedin.com/in/anderson-da-cruz-gomes-9ba200233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:agomescruz67@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=flat-square&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
