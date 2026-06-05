@@ -1,8 +1,13 @@
 <h1 align = "center">Cientista de Dados Junior</h1>
 <p>(Para escrever sobre mim)
 
-Snake
-  
+<h2>Estatísticas</h2>
+<div align = "center">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Pysrdafoice&show_icons=true&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Pysrdafoice&layout=compact&theme=tokyonight"/>
+</div>
+
+
 <h2 >Habilidades em:</h2>
     <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
@@ -18,10 +23,6 @@ Snake
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter" />    
     </div>
 
-<h2>Estatísticas</h2>
-<div align = "center">
-  
-</div>
 
 <h2>Contatos: </h2>
   <div>
